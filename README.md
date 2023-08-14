@@ -1,5 +1,5 @@
 # Animal-Shelter-Data-Analysis
-Factors Influencing Adoption vs Euthanasia
+## Factors Influencing Adoption vs Euthanasia
 
 ## Description
 The study of Factors Influencing Adoption vs Euthanasia in Animal Shelters delves into the multifaceted dynamics that contribute to the outcomes of animal shelter residents. By meticulously examining a range of variables and their interplay, this analysis aims to unravel the determinants that steer the choices between adoption and euthanasia for sheltered animals. Through rigorous exploration and data-driven insights, this investigation sheds light on the intricate factors that influence the ultimate destiny of these animals within the shelter environment.
